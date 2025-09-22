@@ -75,7 +75,7 @@ The repo contains:
 ## 📊 Dashboard Insights
 
 ### 📊 Churn Overview Dashboard
-![Churn Dashboard]([Churn Overview Dashboard.png](https://github.com/Siddharth-Parthasarathy/customer-churn-excel-case-study/blob/51bf2c8af17327820f2777319316d16cee39b573/Churn%20Overview%20Dashboard.png))
+![Churn Overview Dashboard](./Churn_Overview_Dashboard.png)
 
 *➡️ Competitor offers and poor service experience drive churn, with highest risk among heavy data users and certain states.*
 
@@ -88,7 +88,7 @@ The repo contains:
 - **Geographic churn:** Highest in CA (75%), IN (66.7%), NH (62.5%).
 
 ### 👥 Demographics & Usage Dashboard
-![Demographics & Usage](418d42df-bfc9-40bf-9ac8-5dd0f913720e.png)
+![Demographics & Usage Dashboard](./Demographics_and_usage_dashboard.png)
 
 *➡️ Seniors and mid-range data users churn the most, making them prime targets for retention programs.*
 
@@ -98,7 +98,7 @@ The repo contains:
 - **Usage patterns:** Moderate users (5–10 GB) churn most (**33.4%**), compared to light (**23.7%**) and heavy users (**27.7%**).
 
 ### ❌ Churn Reasons Breakdown
-![Churn Reasons](61d90538-7270-4ede-9064-0696c5a17362.png)
+![Churn Reasons Breakdown](./Churn_reasons_breakdown.png)
 
 *➡️ Competitor offers and poor service attitudes explain most of the churn reasons reported.*
 
@@ -109,7 +109,7 @@ The repo contains:
 - **Other reasons:** Moving, extra charges, limited services (<3% each).
 
 ### 🏆 Competitor Churn Analysis
-![Competitor Churn](3f7d9374-8c64-4ef4-9874-96a1ad28e238.png)
+![Competitor Churn Analysis](./Competitor_churn_analysis.png)
 
 *➡️ Nearly three-quarters of competitive churn is due to rivals’ better offers and devices.*
 
@@ -135,22 +135,6 @@ The repo contains:
 
 ---
 
-## 📷 Dashboard Gallery
-A quick visual tour of the dashboards with key one-line insights:
-
-- ![Churn Dashboard](02b4fa95-4a9f-4c79-8512-3e0029ac1d1b.png)  
-  *Competitor offers and poor service experience drive churn, with highest risk among heavy data users and certain states.*
-
-- ![Demographics & Usage](418d42df-bfc9-40bf-9ac8-5dd0f913720e.png)  
-  *Seniors and mid-range data users churn the most, making them prime targets for retention programs.*
-
-- ![Churn Reasons](61d90538-7270-4ede-9064-0696c5a17362.png)  
-  *Competitor offers and poor service attitudes explain most of the churn reasons reported.*
-
-- ![Competitor Churn](3f7d9374-8c64-4ef4-9874-96a1ad28e238.png)  
-  *Nearly three-quarters of competitive churn is due to rivals’ better offers and devices.*
-
----
 
 ## 🚀 Takeaway
 Churn is driven less by *who* the customers are and more by **contract type, support experience, and bill shock**.  
