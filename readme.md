@@ -75,7 +75,7 @@ The repo contains:
 ## 📊 Dashboard Insights
 
 ### 📊 Churn Overview Dashboard
-![Churn Dashboard](Churn Overview Dashboard.png)
+![Churn Dashboard]([Churn Overview Dashboard.png](https://github.com/Siddharth-Parthasarathy/customer-churn-excel-case-study/blob/51bf2c8af17327820f2777319316d16cee39b573/Churn%20Overview%20Dashboard.png))
 
 *➡️ Competitor offers and poor service experience drive churn, with highest risk among heavy data users and certain states.*
 
