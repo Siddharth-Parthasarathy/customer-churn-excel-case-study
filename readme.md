@@ -14,7 +14,7 @@ The repo contains:
   2. Multiple support calls (≥3 calls → almost certain churn).
   3. Early-tenure customers (first 3–6 months).
   4. Higher monthly charges (> $40).
-  5. International/data overage fees.
+  5. International/data overage fees (*bill shock*).
 - **At-risk groups:** seniors, paper check payers, unlimited plan users, solo customers.
 - **Main churn reasons:** competitor offers, poor support experience, price/product dissatisfaction.
 - **Retention levers:** push longer contracts, improve support quality, cap bill shock, bundle add-ons, expand family/group plans.
@@ -72,10 +72,40 @@ The repo contains:
 
 ---
 
+## 📊 Dashboard Insights
+
+### 📊 Churn Overview Dashboard
+![Churn Dashboard](02b4fa95-4a9f-4c79-8512-3e0029ac1d1b.png)
+
+*➡️ Competitor offers and poor service experience drive churn, with highest risk among heavy data users and certain states.*
+
+---
+
+### 👥 Demographics & Usage Dashboard
+![Demographics & Usage](418d42df-bfc9-40bf-9ac8-5dd0f913720e.png)
+
+*➡️ Seniors and mid-range data users churn the most, making them prime targets for retention programs.*
+
+---
+
+### ❌ Churn Reasons Breakdown
+![Churn Reasons](61d90538-7270-4ede-9064-0696c5a17362.png)
+
+*➡️ Competitor offers and poor service attitudes explain most of the churn reasons reported.*
+
+---
+
+### 🏆 Competitor Churn Analysis
+![Competitor Churn](3f7d9374-8c64-4ef4-9874-96a1ad28e238.png)
+
+*➡️ Nearly three-quarters of competitive churn is due to rivals’ better offers and devices.*
+
+---
+
 ## ✅ Recommendations
 1. **Pre-empt M2M churn** → offer discounts/loyalty rewards at 30/60/90 days.  
 2. **Triage high-call customers** → auto-route to retention specialists.  
-3. **Plan redesign** → smooth price bands, cap international/data overages.  
+3. **Plan redesign** → smooth price bands, cap international/data overages to reduce *bill shock*.  
 4. **Encourage contract upgrades** → incentives like device credits.  
 5. **Promote bundles & family/group plans** → strongest retention effect.  
 6. **Train support staff** → attitude issues are a top churn trigger.  
@@ -89,6 +119,25 @@ The repo contains:
 
 ---
 
+## 📷 Dashboard Gallery
+A quick visual tour of the dashboards with key one-line insights:
+
+- ![Churn Dashboard](02b4fa95-4a9f-4c79-8512-3e0029ac1d1b.png)  
+  *Competitor offers and poor service experience drive churn, with highest risk among heavy data users and certain states.*
+
+- ![Demographics & Usage](418d42df-bfc9-40bf-9ac8-5dd0f913720e.png)  
+  *Seniors and mid-range data users churn the most, making them prime targets for retention programs.*
+
+- ![Churn Reasons](61d90538-7270-4ede-9064-0696c5a17362.png)  
+  *Competitor offers and poor service attitudes explain most of the churn reasons reported.*
+
+- ![Competitor Churn](3f7d9374-8c64-4ef4-9874-96a1ad28e238.png)  
+  *Nearly three-quarters of competitive churn is due to rivals’ better offers and devices.*
+
+---
+
 ## 🚀 Takeaway
+Churn is driven less by *who* the customers are and more by **contract type, support experience, and bill shock**.  
+By focusing on **longer contracts, proactive support, and reducing overages**, Databel can cut churn dramatically while boosting customer lifetime value.
 Churn is driven less by *who* the customers are and more by **contract type, support experience, and bill shock**.  
 By focusing on **longer contracts, proactive support, and reducing overages**, Databel can cut churn dramatically while boosting customer lifetime value.
