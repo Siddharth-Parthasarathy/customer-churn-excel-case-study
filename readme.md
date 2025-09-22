@@ -119,22 +119,48 @@ The repo contains:
 - Confirms churn is driven by **competitive positioning** more than internal product gaps.
 
 ## ✅ Recommendations
-1. **Pre-empt M2M churn** → offer discounts/loyalty rewards at 30/60/90 days.  
-2. **Triage high-call customers** → auto-route to retention specialists.  
-3. **Plan redesign** → smooth price bands, cap international/data overages to reduce *bill shock*.  
-4. **Encourage contract upgrades** → incentives like device credits.  
-5. **Promote bundles & family/group plans** → strongest retention effect.  
-6. **Train support staff** → attitude issues are a top churn trigger.  
+
+1. **Pre-empt M2M churn**  
+   - Customers on month-to-month contracts are the most churn-prone (46% churn rate).  
+   - Launch targeted retention campaigns at key lifecycle points (30/60/90 days).  
+   - Offer short-term discounts, bonus data, or loyalty points to build early trust and reduce “try-and-leave” behavior.  
+
+2. **Triage high-call customers**  
+   - Customers who contact support multiple times (≥3 calls) are almost guaranteed to churn.  
+   - Flag these accounts in the CRM and automatically route them to a **retention specialist**.  
+   - Provide save agents with **empowered offers** (bill credits, upgraded plans, or priority service) to resolve issues and restore satisfaction quickly.  
+
+3. **Plan redesign to reduce *bill shock***  
+   - Churn accelerates above $40/month and among customers hit with extra international/data charges.  
+   - Smooth out price tiers so customers don’t feel penalized for moderate usage.  
+   - Introduce caps or alerts on overages to prevent unexpected bills.  
+   - Bundle “peace of mind” options (like unlimited international texting or capped roaming fees) to improve predictability.  
+
+4. **Encourage contract upgrades**  
+   - Two-year contracts have the lowest churn (2.8%) compared to month-to-month (46%).  
+   - Incentivize customers to switch by offering:  
+     - **Device credits or upgrades** on renewal.  
+     - **Loyalty points** or exclusive perks (priority support, streaming add-ons).  
+     - **Discounted rates** for committing to longer terms.  
+
+5. **Promote bundles & family/group plans**  
+   - Solo customers churn at ~33% vs only ~6–8% for those in group/family plans.  
+   - Encourage customers to add family lines or bundle services (e.g., device protection, cloud backup).  
+   - Highlight both **cost savings** and **convenience** to lock in households rather than individuals.  
+
+6. **Train and empower support staff**  
+   - Attitude of support personnel is a top-3 churn reason (over 11%).  
+   - Invest in **customer empathy and resolution training** to improve first-call satisfaction.  
+   - Align KPIs not only on call handling time, but also on **customer save rate**.  
+   - Empower agents with tools and offers so they can resolve complaints without escalations.  
 
 ---
 
-## 📂 Repo Structure
-- `1_1_data_preparation.xlsx` → cleaned dataset.  
-- `3_5_final_solution.xlsx` → dashboards & pivots.  
-- `README.md` → insights & project documentation.  
+### 🌟 Summary
+The strongest retention strategy combines **early engagement**, **proactive support**, and **contract/bundle incentives**. By tackling both the *emotional drivers* (service quality, trust) and *financial drivers* (pricing, bill shock), Databel can substantially reduce churn while building long-term customer loyalty.
+ 
 
 ---
-
 
 ## 🚀 Takeaway
 Churn is driven less by *who* the customers are and more by **contract type, support experience, and bill shock**.  
