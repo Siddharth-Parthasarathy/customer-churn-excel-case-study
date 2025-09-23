@@ -27,7 +27,7 @@ The repo contains:
    - Created tenure bands, price bands, and grouped support calls.
    - Verified churn labels and aggregated KPIs.
 
-2. **Final dashboards (`3_5_final_solution.xlsx`)**
+2. **Final dashboards**
    - **Overview dashboard:** churn KPIs, revenue snapshot, tenure distribution.
    - **Churn analysis dashboard:** churn by contract, tenure, calls, pricing, demographics.
    - **Customer pivots:** state, payment method, plan type, add-ons, usage.
