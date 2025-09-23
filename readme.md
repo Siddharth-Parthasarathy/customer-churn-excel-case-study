@@ -75,7 +75,7 @@ The repo contains:
 ## 📊 Dashboard Insights
 
 ### 📊 Churn Overview Dashboard
-![Churn Overview Dashboard](./Churn_Overview_Dashboard.png)
+![Churn Overview Dashboard](Images/Churn_Overview_Dashboard.png)
 
 *➡️ Competitor offers and poor service experience drive churn, with highest risk among heavy data users and certain states.*
 
@@ -88,7 +88,7 @@ The repo contains:
 - **Geographic churn:** Highest in CA (75%), IN (66.7%), NH (62.5%).
 
 ### 👥 Demographics & Usage Dashboard
-![Demographics & Usage Dashboard](./Demographics_and_usage_dashboard.png)
+![Demographics & Usage Dashboard](Images/Demographics_and_usage_dashboard.png)
 
 *➡️ Seniors and mid-range data users churn the most, making them prime targets for retention programs.*
 
@@ -98,7 +98,7 @@ The repo contains:
 - **Usage patterns:** Moderate users (5–10 GB) churn most (**33.4%**), compared to light (**23.7%**) and heavy users (**27.7%**).
 
 ### ❌ Churn Reasons Breakdown
-![Churn Reasons Breakdown](./Churn_reasons_breakdown.png)
+![Churn Reasons Breakdown](Images/Churn_reasons_breakdown.png)
 
 *➡️ Competitor offers and poor service attitudes explain most of the churn reasons reported.*
 
@@ -109,7 +109,7 @@ The repo contains:
 - **Other reasons:** Moving, extra charges, limited services (<3% each).
 
 ### 🏆 Competitor Churn Analysis
-![Competitor Churn Analysis](./Competitor_churn_analysis.png)
+![Competitor Churn Analysis](Images/Competitor_churn_analysis.png)
 
 *➡️ Nearly three-quarters of competitive churn is due to rivals’ better offers and devices.*
 
