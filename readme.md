@@ -2,7 +2,7 @@
 
 This project analyzes customer churn for **Databel**, using data preparation and dashboards built in Excel.  
 The repo contains:
-- **Raw dataset:** `Databel - data.xlsx`
+- **Raw dataset:** `Databel - Data.csv`
 - **Final analysis dashboards:** `Dashboard_Insights.xlsx`
 
 ---
